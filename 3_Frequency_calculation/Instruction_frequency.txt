@@ -1,0 +1,5 @@
+Code 'Main_test_frequency_calcium' is used to transform the time domain information of calcium into frequency domain.
+and the results are shown at path '3_Frequency_calculation\data_frequency_calcium\Total_data.xls', we can also observe each set of results separately.
+
+Code 'Main_test_frequency_radius' is used to transform the time domain information of radius into frequency domain.
+and the results are shown at path '3_Frequency_calculation\data_frequency_radius\Total_data.xls', we can also observe each set of results separately.

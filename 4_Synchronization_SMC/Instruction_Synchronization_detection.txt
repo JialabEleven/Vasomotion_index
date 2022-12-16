@@ -1,0 +1,3 @@
+Code 'Main_CC_curve' is used to calculate the correlation of vasomotion between 2.5um-35um (interval 2.5um)
+Code 'Main_matrixplot' is used to calculate matrixplot of vasomotion between 2.5um-35um (interval 2.5um)
+and the results are shown at path '4_Synchronization_SMC\Results of rolling_data\information_R_value.xls', we can also observe each set of results separately.
