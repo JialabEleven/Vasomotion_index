@@ -1,0 +1,5 @@
+Code 'Main_calcium_index_detection' is used to extract calcium information (Frequency(Hz), Average_deltaF/F0, interval_mean(s), interval_SD) which is preprocessed in imageJ (shown in prepocessing image using imageJ.pptx).
+And the results are shown at path '2_Vasomotion_index\data_deal_calcium\Total_data.xls', we can also observe each set of results separately.
+
+Code 'Main_radius_index_detection' is used to extract radius information (Frequency(Hz), Average_deltaR/R0, interval_mean(s), interval_SD) which is preprocessed in imageJ (shown in prepocessing image using imageJ.pptx).
+And the results are shown at path '2_Vasomotion_index\data_deal_radius\Total_data.xls', we can also observe each set of results separately.
